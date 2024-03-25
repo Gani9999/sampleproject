@@ -1,0 +1,28 @@
+.main{
+  height: 500px;
+  width: 800px;
+  border: 2px solid rgb(188, 167, 210);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  /* text-align: center; */
+  justify-content: center;
+  align-items: center;
+  background-color: #c2a2cd;
+}
+
+.btn {
+  /* Add your desired styles here */
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin: 20px;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: darkblue;
+}
+
